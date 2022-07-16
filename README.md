@@ -5,7 +5,7 @@
 - O objetivo é criar um website, onde os alunos poderão reportar a falta de recursos em sua escola.
 - Nosso site será uma plataforma informativa, consultiva e aberta.
 - Nosso squad está desenvolvendo e programando  o front-end e back-end.
-- estamos aprendedo HTML, CSS , JAVASCRIPTE , JAVA E PSEUDOCÓDIGO 
+- estamos aprendedo HTML, CSS , JAVASCRIPT E JAVA.
 - squad-6 é formado por:
 - líder: Samuel Rezende dos Santos
 - Vice-líder: Gláucia Gomes de Oliveira Lopes 
