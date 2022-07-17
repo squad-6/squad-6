@@ -10,7 +10,6 @@
 - líder: Samuel Rezende dos Santos
 - Vice-líder: Gláucia Gomes de Oliveira Lopes 
 - Júlio Cesar Fragoso de Lima 
-- César Wilson da Silva 
 - João Vitor Machado Cardoso 
 - Rian Felix de Oliveira 
 - 😄 eles/elas
