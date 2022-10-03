@@ -7,10 +7,9 @@
 - Nosso squad está desenvolvendo e programando  o front-end e back-end.
 - estamos aprendedo HTML, CSS , JAVASCRIPT E JAVA.
 - squad-6 é formado por:
-- líder: Samuel Rezende dos Santos
-- Vice-líder: Gláucia Gomes de Oliveira Lopes 
-- Júlio Cesar Fragoso de Lima 
-- João Vitor Machado Cardoso 
+- Samuel Rezende dos Santos
+- Gláucia Gomes de Oliveira Lopes 
+- Júlio Cesar Fragoso de Lima  
 - Rian Felix de Oliveira 
 - 😄 eles/elas
 -->
